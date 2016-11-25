@@ -1,5 +1,5 @@
 ---
-title: My first attempts at publishing using GitGub - Rohan Sharma
+title: My first attempts at publishing using GitHub
 layout: post
 author: rohan.sharma1
 permalink: /my-first-attempts-at-publishing-using-gitgub---rohan-sharma/
